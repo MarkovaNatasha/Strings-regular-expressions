@@ -1,0 +1,4 @@
+D:\NaTaLi\Книги\bionic university\Task7\Task7\bin\Debug\Task7.exe
+D:\NaTaLi\Книги\bionic university\Task7\Task7\bin\Debug\Task7.pdb
+D:\NaTaLi\Книги\bionic university\Task7\Task7\obj\x86\Debug\Task7.exe
+D:\NaTaLi\Книги\bionic university\Task7\Task7\obj\x86\Debug\Task7.pdb
